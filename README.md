@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![MasterHead](https://github.com/emert117/emert117/blob/main/header.png)](your GitHub link)
+![MasterHead](https://github.com/emert117/emert117/blob/main/header.png)
 
 - 🔭 I’m currently working on .NET 5 
 - 🌱 I’m currently learning AWS
