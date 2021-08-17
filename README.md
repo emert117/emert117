@@ -7,9 +7,9 @@
 
 #Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye'de Yazılım Şirketi Açmak ve Çıldırmamak](https://www.saascommando.com/2021/08/turkiyede-yazlm-sirketi-acmak-ve.html)
 - [Koşsa da yetişemeyen yazılımcı](https://www.saascommando.com/2021/07/kossa-da-yetisemeyen-yazlmc.html)
 - [Hatayı yakalarken hayatı kaçıran yazılımcı](https://www.saascommando.com/2021/06/hatay-yakalarken-hayat-kacran-yazlmc.html)
 - [Misafir Odasındaki Yazılımcı](https://www.saascommando.com/2021/05/misafir-odasndaki-yazlmc.html)
 - [Bir Uluslararası Yazılım Şirketinin Batış Hikayesi](https://www.saascommando.com/2021/04/bir-uluslararas-yazlm-sirketinin.html)
-- [Yazılım Projesine Başlarken Altın Kurallar: Ekip](https://www.saascommando.com/2021/03/yazlm-projesine-baslarken-altn-kurallar.html)
 <!-- BLOG-POST-LIST:END -->
