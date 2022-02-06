@@ -7,9 +7,9 @@
 
 #Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Yeni Yazılımcının Proje ve Ekip ile Sınavı](https://www.saascommando.com/2022/02/yeni-yazlmcnn-proje-ve-ekip-ilesnav.html)
 - [Görünmez Yazılımcı](https://www.saascommando.com/2022/01/gorunmez-yazlmc.html)
 - [Yazılımcı Bulabilen Girişimci](https://www.saascommando.com/2021/12/yazlmc-bulabilen-girisimci.html)
 - [Yazılımcı Bulamayan Girişimci](https://www.saascommando.com/2021/11/yazlmc-bulamayan-girisimci.html)
 - [Yazılıma Bir Yerden Başlayamamak](https://www.saascommando.com/2021/10/yazlma-bir-yerden-baslayamamak.html)
-- [Bir Yazılımcının İş Arama Serüveni](https://www.saascommando.com/2021/09/bir-yazlmcnn-is-arama-seruveni.html)
 <!-- BLOG-POST-LIST:END -->
