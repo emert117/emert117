@@ -7,9 +7,9 @@
 
 #Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Yazılımcı Bağımlılığı](https://www.saascommando.com/2022/04/yazlmc-bagmllg.html)
 - [Ey MVP, senden utanmıyoruz!](https://www.saascommando.com/2022/03/ey-mvp-senden-utanmyoruz.html)
 - [Yeni Yazılımcının Proje ve Ekip ile Sınavı](https://www.saascommando.com/2022/02/yeni-yazlmcnn-proje-ve-ekip-ilesnav.html)
 - [Görünmez Yazılımcı](https://www.saascommando.com/2022/01/gorunmez-yazlmc.html)
 - [Yazılımcı Bulabilen Girişimci](https://www.saascommando.com/2021/12/yazlmc-bulabilen-girisimci.html)
-- [Yazılımcı Bulamayan Girişimci](https://www.saascommando.com/2021/11/yazlmc-bulamayan-girisimci.html)
 <!-- BLOG-POST-LIST:END -->
