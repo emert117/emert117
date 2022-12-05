@@ -1,7 +1,8 @@
-![MasterHead](https://github.com/emert117/emert117/blob/main/header.png)
+#Hi, I am Emre.
+Code is cheap, show me the product!
 
-- 🔭 I’m working with .NET 6 
-- 🌱 I’m learning AWS and Python
+- 🔭 I’m working with .NET 6 and Python
+- 🌱 I’m learning AWS
 
 [![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emert117)](https://github.com/anuraghazra/github-readme-stats)
 
