@@ -1,7 +1,7 @@
 #Hi, I am Emre.
 Code is cheap, show me the product!
 
-- 🔭 I’m working with .NET 6 and Python
+- 🔭 I’m working with .NET 7 and Python (Django)
 - 🌱 I’m learning AWS
 
 [![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emert117)](https://github.com/anuraghazra/github-readme-stats)
