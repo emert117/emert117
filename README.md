@@ -4,9 +4,7 @@ Code is cheap, show me the product!
 - 🔭 I’m working with .NET 7 and Python (Django)
 - 🌱 I’m learning AWS
 
-[![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emert117)](https://github.com/anuraghazra/github-readme-stats)
-
-#Blog Posts:
+#Turkish Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Dolarla sınanan yazılımcı adayı](https://www.saascommando.com/2022/12/dolarla-snanan-yazlmc-aday.html)
 - [Canlıya çıkamayan yazılımcı](https://www.saascommando.com/2022/11/canlya-ckamayan-yazlmc.html)
