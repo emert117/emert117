@@ -4,6 +4,8 @@ Code is cheap, show me the product!
 - 🔭 I’m working with .NET 7 and Python (Django)
 - 🌱 I’m learning AWS
 
+#English Blog: [https://emremert.dev/](https://emremert.dev/)
+
 #Turkish Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [2022 Özeti](https://www.saascommando.com/2023/01/2022-ozeti.html)
